@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Visor Educativo</string>
+    <string name="cargar_json">Seleccione el archivo JSON</string>
+    <string name="volver">Atrás</string>
+    <string name="home">Inicio</string>
+    <string name="config">Configuracion</string>
+    <string name="inactividad">Pulse para iniciar su navegación</string>
+    <string name="sinElementos">No hay elementos para mostrar</string>
+    <!-- POPUP INACTIVIDAD -->
+    <string name="pregunta_actividad_titulo">¿Sigues ahí?</string>
+    <string name="pregunta_actividad">No detectamos actividad. ¿Quieres mantener la sesión?</string>
+    <string name="mantener">Mantener</string>
+    <string name="finalizar">Finalizar</string>
+</resources>
